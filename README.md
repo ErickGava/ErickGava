@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErickGava
 - 👀 I’m interested in programar👍🏻
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Python
 - 💞️ Currently single
 - 📫 How to reach me (erick0108gava@gmail.com)
 - 😄 Pronouns: He
