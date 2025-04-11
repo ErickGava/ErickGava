@@ -4,7 +4,7 @@
 - 💞️ Currently single
 - 📫 How to reach me (erick0108gava@gmail.com)
 - 😄 Pronouns: He
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I make websites
 
 <!---
 ErickGava/ErickGava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
