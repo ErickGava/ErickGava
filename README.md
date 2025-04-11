@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning 
 - 💞️ Currently single
 - 📫 How to reach me (erick0108gava@gmail.com)
-- 😄 Pronouns: 
+- 😄 Pronouns: He
 - ⚡ Fun fact: 
 
 <!---
